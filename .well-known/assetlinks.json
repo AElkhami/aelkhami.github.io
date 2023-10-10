@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.datashare",
+    "package_name": "com.elkhami.datashare",
     "sha256_cert_fingerprints":
     ["64:10:11:8F:90:48:CF:AE:52:6B:76:15:0F:7C:66:B1:B6:45:A3:1D:7F:0E:C2:84:CC:5E:96:A1:2F:99:71:3F"]
   }
