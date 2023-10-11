@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.elkhami.datashare",
+    "package_name": "com.elkhami.instantdatashare",
     "sha256_cert_fingerprints":
-    ["64:10:11:8F:90:48:CF:AE:52:6B:76:15:0F:7C:66:B1:B6:45:A3:1D:7F:0E:C2:84:CC:5E:96:A1:2F:99:71:3F"]
+    ["3D:4F:F7:86:55:A2:FD:14:A1:B3:32:F3:B8:1A:E7:72:78:C4:7D:8A:04:13:A6:23:A2:48:61:AD:39:6E:D9:6B"]
   }
 }]
